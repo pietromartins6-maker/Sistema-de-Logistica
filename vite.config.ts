@@ -16,7 +16,7 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
-  base: "/Sistema-de-Logistica/",
+  base: "/",
 
   plugins: [
     figmaAssetResolver(),
